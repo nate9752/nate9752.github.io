@@ -13,3 +13,12 @@ MS - 2026 - Purdue University
 [Download My Resume](https://github.com/nate9752/nate9752.github.io/raw/main/CareyNathen.Resume.pdf)
 
 
+## Hobbies 
+
+### Rubix Cube
+I've been solving the Rubix Cube since I was in 5th grade. When I started, I used a very standard method that anyone could pick up and use (it literally comes in the box with a normal Rubix Cube brand toy). This beginners method only needed 10-15 algorithms, and I used it for quite a few years. My average always stuck around 40 seconds, and I was pretty happy with this until about halfway through college. I picked up the CFOP algorithm (cross, first 2 layers, orientation, and permutation). 
+[Link To My YouTube](https://www.youtube.com/@nate_9752)
+
+
+
+
