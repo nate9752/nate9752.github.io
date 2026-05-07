@@ -20,10 +20,10 @@ MS - 2026 - Purdue University
 - Worked to match results to a 2024 paper by Nicholson et. al. 
 - Simulated supersonic flow over forward and backwards facing walls.
 
-<img src="images/backwards.png" width="400">
-![Expansion Fan](images/backwards.png)
-![Shock Wave](images/forward.png)
-![Mesh Refinement](images/mesh.png)
+<img src="images/backwards.png" width="800">
+<img src="images/forward.png" width="800">
+<img src="images/mesh.png" width="800">
+
 
 
 
