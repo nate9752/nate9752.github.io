@@ -50,8 +50,8 @@ MS - 2026 - Purdue University
 
 <p float="left">
   <img src="images/wavymesh.png" width="350">
-  <img src="images/uplus.png" width="350">
-  <img src="images/surfacecontour.png" width="350">
+  <img src="images/uplus.png" width="300">
+  <img src="images/surfacecontour.png" width="325">
 </p>
 
 
