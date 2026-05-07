@@ -42,14 +42,17 @@ MS - 2026 - Purdue University
 
 
 
-3. Reditus Research Assistant
+### 3. Reditus Research Assistant
 - Utilized Pointwise and SU2 to simulate high speed flow over wavy wall geometries.
 - Sought to match flow parameters and boundary layer development to values seen in Jonathan Gaskin's DNS Data.
 - Long term research goal was to determine a model for heat flux, as rough geometries don’t intrinsically follow the common assumption that heat flux is aligned with the mean temperature gradient.
 
-![Mesh](images/wavymesh.png)
-![Van Driest Transformation](images/uplus.png)
-![Wall Mach Contour](images/surfacecontour.png)
+
+<p float="left">
+  <img src="images/wavymesh.png" width="350">
+  <img src="images/uplus.png" width="350">
+  <img src="images/surfacecontour.png" width="350">
+</p>
 
 
 
