@@ -29,7 +29,7 @@ MS - 2026 - Purdue University
 
 
 
-### 2. Senior Design - Design Build Fly
+### 2. Senior Design - DBF
 - Worked alongside a team of engineers to design and build an RC fixed wing aircraft.
 - Performed detailed aerodynamic design and stability analysis using XFLR5.
 - Aircraft sized using my own sizing code, JZ-Wannabee. After the successful flight of our RC aircraft, I continued developing my sizing code into a much larger project (more details in the my "hobbies" section).
