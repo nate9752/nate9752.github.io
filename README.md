@@ -32,7 +32,6 @@ MS - 2026 - Purdue University
 
 ![XFLR5 Plane View](images/wireframe.png)
 ![Drag Polar and Cl Alpha](images/aeroplots.png)
-![Team Photo](images/team.png)
 
 
 ## Hobbies 
