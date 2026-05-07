@@ -4,7 +4,7 @@
 Aeronautical and Astronautical Engineer 
 
 ## About Me
-I am a recent engineering graduate with both a Bachelors and Masters in Aeronautical and Astronautical Engineering. I have two years of experience working in aircraft and engine performance at a company called JetZero. This cite will display some of my personal projects, papers, and hobby accommplishments. 
+I am a recent engineering graduate with both a Bachelors and Masters in Aeronautical and Astronautical Engineering. I have two years of experience working in aircraft and engine performance at a company called JetZero. This site will display some of my personal projects, papers, and hobby accomplishments. 
 
 BS - 2024 - Purdue University 
 
@@ -32,7 +32,7 @@ MS - 2026 - Purdue University
 ### 2. Senior Design - Design Build Fly
 - Worked alongside a team of engineers to design and build an RC fixed wing aircraft.
 - Performed detailed aerodynamic design and stability analysis using XFLR5.
-- Aircraft sized using my own sizing code, JZ-Wannabee. After the sucessful flight of our RC aircraft, I continued developing my sizing code into a much larger project (more details in the my "hobbies" section).
+- Aircraft sized using my own sizing code, JZ-Wannabee. After the successful flight of our RC aircraft, I continued developing my sizing code into a much larger project (more details in the my "hobbies" section).
 
 ![XFLR5 Plane View](images/wireframe.png)
 ![Drag Polar and Cl Alpha](images/aeroplots.png)
@@ -54,8 +54,8 @@ MS - 2026 - Purdue University
 
 ## Hobbies 
 
-### Rubix Cube
-I've been solving the Rubix Cube since I was in 5th grade. When I started, I used a very standard method that anyone could pick up and use (it literally comes in the box with a normal Rubix Cube brand toy). This beginners method only needed 10-15 algorithms, and I used it for quite a few years. My average always stuck around 40 seconds, and I was pretty happy with this until about halfway through college. I picked up the CFOP algorithm (cross, first 2 layers, orientation, and permutation), and after memorizing around 100 new algorithms, my average dropped to ~27 seconds. Now, I am right around 23 seconds, with an unrecorded personal best of 14 seconds. I've recently started uploading my solves on YouTube. I'll try to upload every week or so, mostly if I'm able to get my average down. 
+### Rubik's Cube
+I've been solving the Rubik's Cube since I was in 5th grade. When I started, I used a very standard method that anyone could pick up and use (it literally comes in the box with a normal Rubik's Cube brand toy). This beginners method only needed 10-15 algorithms, and I used it for quite a few years. My average always stuck around 40 seconds, and I was pretty happy with this until about halfway through college. I picked up the CFOP algorithm (cross, first 2 layers, orientation, and permutation), and after memorizing around 100 new algorithms, my average dropped to ~27 seconds. Now, I am right around 23 seconds, with an unrecorded personal best of 14 seconds. I've recently started uploading my solves on YouTube. I'll try to upload every week or so, mostly if I'm able to get my average down. 
 
 [Link To My YouTube](https://www.youtube.com/@nate_9752)
 
