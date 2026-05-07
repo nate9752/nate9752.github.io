@@ -21,7 +21,7 @@ MS - 2026 - Purdue University
 * Worked to match results to a 2024 paper by Nicholson et. al. 
 * Simulated supersonic flow over forward and backwards facing walls.
 
-[Expansion Fan](https://github.com/nate9752/nate9752.github.io/raw/main/backwards%20wall%20contour.png)
+![Expansion Fan](images/backwards wall contour)
 
 
 ## Hobbies 
