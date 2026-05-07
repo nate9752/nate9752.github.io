@@ -15,13 +15,14 @@ MS - 2026 - Purdue University
 
 ## Projects
 
-1. High Speed Flow Over Parameterized Walls
-
+High Speed Flow Over Parameterized Walls
 * Meshing, simulation, and post processing done in Ansys FLUENT.
 * Worked to match results to a 2024 paper by Nicholson et. al. 
 * Simulated supersonic flow over forward and backwards facing walls.
 
 ![Expansion Fan](images/backwards.png)
+![Shock Wave](images/forwards.png)
+![Mesh Refinement](images/mesh.png)
 
 
 ## Hobbies 
