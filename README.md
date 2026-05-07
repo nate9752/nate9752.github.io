@@ -34,9 +34,10 @@ MS - 2026 - Purdue University
 - Performed detailed aerodynamic design and stability analysis using XFLR5.
 - Aircraft sized using my own sizing code, JZ-Wannabee. After the successful flight of our RC aircraft, I continued developing my sizing code into a much larger project (more details in the my "hobbies" section).
 
-<img src="images/wireframe.png" width="400">
-<img src="images/aeroplots.png" width="400">
-
+<p float="left">
+  <img src="images/wireframe.png" width="350">
+  <img src="images/aeroplots.png" width="350">
+</p>
 
 
 
