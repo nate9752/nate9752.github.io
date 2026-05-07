@@ -25,6 +25,9 @@ MS - 2026 - Purdue University
 ![Mesh Refinement](images/mesh.png)
 
 
+
+
+
 2. Senior Design - Design Build Fly
 - Worked alongside a team of engineers to design and build an RC fixed wing aircraft.
 - Performed detailed aerodynamic design and stability analysis using XFLR5.
@@ -32,6 +35,20 @@ MS - 2026 - Purdue University
 
 ![XFLR5 Plane View](images/wireframe.png)
 ![Drag Polar and Cl Alpha](images/aeroplots.png)
+
+
+
+
+
+3. Reditus Research Assistant
+- Utilized Pointwise and SU2 to simulate high speed flow over wavy wall geometries.
+- Sought to match flow parameters and boundary layer development to values seen in Jonathan Gaskin's DNS Data.
+- Long term research goal was to determine a model for heat flux, as rough geometries don’t intrinsically follow the common assumption that heat flux is aligned with the mean temperature gradient.
+
+![Mesh](images/wavymesh.png)
+![Van Driest Transformation](images/uplus.png)
+![Wall Mach Contour](images/surfacecontour.png)
+
 
 
 ## Hobbies 
