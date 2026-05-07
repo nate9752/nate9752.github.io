@@ -21,7 +21,7 @@ High Speed Flow Over Parameterized Walls
 * Simulated supersonic flow over forward and backwards facing walls.
 
 ![Expansion Fan](images/backwards.png)
-![Shock Wave](images/forwards.png)
+![Shock Wave](images/forward.png)
 ![Mesh Refinement](images/mesh.png)
 
 
