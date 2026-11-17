@@ -4,7 +4,7 @@
 Aeronautical and Astronautical Engineer 
 
 ## About Me
-I am a recent engineering graduate with both a Bachelors and Masters in Aeronautical and Astronautical Engineering. I have two years of experience working in aircraft and engine performance at a company called JetZero. This site will display some of my personal projects, papers, and hobby accomplishments. 
+I am a recent engineering graduate with both a Bachelors and Masters in Aeronautical and Astronautical Engineering. I have two and a half years of experience working in aircraft and engine performance at a company called JetZero. This site will display some of my personal projects, any papers I end up writing papers, and some random hobby accomplishments. 
 
 BS - 2024 - Purdue University 
 
@@ -67,6 +67,16 @@ I'll also probably end up posting some other types of videos on my channel, mayb
 
 ### RC Aircraft
 
-### Video Games
+I recently undertook a code development / update process for the aircraft sizing script I wrote in senior design (DBF) at Purdue. I wanted this new code to be able to build up the geometry for a Blended Wing Body (BWB). The BWB is a particularly tricky aircraft to manufacture, so I had to entirely start from scratch with my geometry parametrizing process. Currently, I am in the build process for version 1 of what I am calling Storm. Storm will be a pusher-single-prop aircraft that will utilize the advantages provided by the BWB airframe, and will also serve as a refresher in my own knowldege on RC aircraft manufacturing. My current plan is to 3D print the airframe, and to fly by the end of the year. 
+
+Storm is both the name of the aircraft, as well as the new sizing program I developed. The code is written entirely in MATLAB but takes advantage of some python tools to call to external software such as Fusion360 and OpenVSP. Once an airframe is inputted, a propulsion system trade study is performed using a database of motors, batteries, propellers, etc, and can arrive at a design solution that either maximizes in flight speed, as built mass, or flight endurance. Storm's results have not been verified in flight tests yet, but I hope to accomplish this soon. 
+
+
+<p float="left">
+  <img src="images/wavymesh.png" width="350">
+  <img src="images/uplus.png" width="300">
+  <img src="images/surfacecontour.png" width="325">
+</p>
+
 
 
